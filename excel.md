@@ -3,7 +3,7 @@ layout: post
 title: Excel Method
 ---
 
-**Install**
+**Install**<br>
 
 ***Office 2010* Professional Plus x64 SP1 Vol**<br>
 ed2k://|file|SW_DVD5_Office_Professional_Plus_2010w_SP1_64Bit_ChnSimp_CORE_MLF_X17-76742.iso|1612515328|032320121E0EE36D8F0C32EC89CA0AB9|/<br><br>
@@ -17,10 +17,7 @@ ed2k://|file|SW_DVD5_Office_Professional_Plus_2016_64Bit_ChnSimp_MLF_X20-42426.I
 
 
 
-**Activation**
-
-cscript ospp.vbs /sethst:kms.03k.org
-cscript ospp.vbs /act
-
-
-Refer https://blog.03k.org/post/kms.html
+**Activation**<br>
+Refer [03k](https://blog.03k.org/post/kms.html):<br>
+cscript ospp.vbs /sethst:kms.03k.org<br>
+cscript ospp.vbs /act<br><br>
