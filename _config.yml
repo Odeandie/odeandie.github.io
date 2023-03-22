@@ -44,5 +44,6 @@ plugins:
 paginate: 7
 paginate_path: "/page/:num/"
 
-# Hide Credits
+# Hide Button
 hide_credits: true
+hide_search: true
