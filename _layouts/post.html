@@ -32,3 +32,11 @@ layout: default
   {% endif %}
 
 </article>
+
+<script>
+  $(function(){
+      $('article').find("#content").find('a').on('click',function(){
+          $(this).attr("target","_blank")
+      })
+  })
+  </script>
